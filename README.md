@@ -70,6 +70,10 @@ During a chapter you can say things like:
 - *"explain that again"* — re-explains with a different analogy
 - *"open that file"* — opens the referenced file in your editor
 
+IN VS Code
+
+<img width="681" height="159" alt="image" src="https://github.com/user-attachments/assets/78a976f8-5a5d-4f7d-aac4-b2f4f3a29b20" />
+
 ---
 
 ## How It Works
